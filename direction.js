@@ -30,7 +30,7 @@ var delay = 100;
  var icons = {
   start: new google.maps.MarkerImage(
    // URL
-   'start.png',
+   'assets/start.png',
    // (width,height)
    new google.maps.Size( 44, 32 ),
    // The origin point (x,y)
@@ -40,7 +40,7 @@ var delay = 100;
   ),
   end: new google.maps.MarkerImage(
    // URL
-   'end.png',
+   'assets/end.png',
    // (width,height)
    new google.maps.Size( 44, 32 ),
    // The origin point (x,y)
